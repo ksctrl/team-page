@@ -3,6 +3,6 @@
   <h1>Project CTRL Team!</h1>
   </head>
   <body>
-    <img src="http://www.fillster.com/dog-pictures/1/">
+    <a href="http://www.fillster.com/dog-pictures/1/" height=200px width=200px>
   </body>
 </html>
