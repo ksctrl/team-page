@@ -9,6 +9,6 @@
     <br>
     <img src=https://static4.depositphotos.com/1029126/389/i/380/depositphotos_3892856-stock-photo-baby-duck-isolated-on-white.jpg height=200px width=200px style="float:left"> <p style="float:right" position=right:100px>This is Quacks! He enjoys creating designs for the team and give us a headstart in the market.</p>
     <br>
-    <img src= height=200px width=200px style=float:left position=left:100px> <p style="float:right" position=right:100px>This is Shelby! Our #1 Defender</p>
+    <img src=https://images.pexels.com/photos/10467/pexels-photo-10467.jpeg?auto=compress&cs=tinysrgb&w=600 height=200px width=200px style=float:left position=left:100px> <p style="float:right" position=right:100px>This is Shelby! Our #1 Defender</p>
   </body>
 </html>
